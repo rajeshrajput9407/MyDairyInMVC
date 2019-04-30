@@ -1,0 +1,15 @@
+F:\TP_WorkingProject\MyDiary\MyDiary.Repository\bin\Debug\MyDiary.Repository.dll.config
+F:\TP_WorkingProject\MyDiary\MyDiary.Repository\bin\Debug\MyDiary.Repository.dll
+F:\TP_WorkingProject\MyDiary\MyDiary.Repository\bin\Debug\MyDiary.Repository.pdb
+F:\TP_WorkingProject\MyDiary\MyDiary.Repository\bin\Debug\EntityFramework.dll
+F:\TP_WorkingProject\MyDiary\MyDiary.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\TP_WorkingProject\MyDiary\MyDiary.Repository\bin\Debug\MyDiary.Models.dll
+F:\TP_WorkingProject\MyDiary\MyDiary.Repository\bin\Debug\MyDiary.Models.pdb
+F:\TP_WorkingProject\MyDiary\MyDiary.Repository\bin\Debug\MyDiary.Models.dll.config
+F:\TP_WorkingProject\MyDiary\MyDiary.Repository\bin\Debug\EntityFramework.xml
+F:\TP_WorkingProject\MyDiary\MyDiary.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\TP_WorkingProject\MyDiary\MyDiary.Repository\obj\Debug\MyDiary.Repository.csprojAssemblyReference.cache
+F:\TP_WorkingProject\MyDiary\MyDiary.Repository\obj\Debug\MyDiary.Repository.csproj.CoreCompileInputs.cache
+F:\TP_WorkingProject\MyDiary\MyDiary.Repository\obj\Debug\MyDiary.Repository.csproj.CopyComplete
+F:\TP_WorkingProject\MyDiary\MyDiary.Repository\obj\Debug\MyDiary.Repository.dll
+F:\TP_WorkingProject\MyDiary\MyDiary.Repository\obj\Debug\MyDiary.Repository.pdb

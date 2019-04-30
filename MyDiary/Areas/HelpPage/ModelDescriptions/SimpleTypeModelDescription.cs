@@ -1,0 +1,6 @@
+namespace MyDiary.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}

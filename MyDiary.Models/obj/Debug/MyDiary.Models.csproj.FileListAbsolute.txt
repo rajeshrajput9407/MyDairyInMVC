@@ -1,0 +1,11 @@
+F:\TP_WorkingProject\MyDiary\MyDiary.Models\bin\Debug\MyDiary.Models.dll.config
+F:\TP_WorkingProject\MyDiary\MyDiary.Models\bin\Debug\MyDiary.Models.dll
+F:\TP_WorkingProject\MyDiary\MyDiary.Models\bin\Debug\MyDiary.Models.pdb
+F:\TP_WorkingProject\MyDiary\MyDiary.Models\bin\Debug\EntityFramework.dll
+F:\TP_WorkingProject\MyDiary\MyDiary.Models\bin\Debug\EntityFramework.SqlServer.dll
+F:\TP_WorkingProject\MyDiary\MyDiary.Models\bin\Debug\EntityFramework.xml
+F:\TP_WorkingProject\MyDiary\MyDiary.Models\bin\Debug\EntityFramework.SqlServer.xml
+F:\TP_WorkingProject\MyDiary\MyDiary.Models\obj\Debug\MyDiary.Models.csproj.CoreCompileInputs.cache
+F:\TP_WorkingProject\MyDiary\MyDiary.Models\obj\Debug\MyDiary.Models.csproj.CopyComplete
+F:\TP_WorkingProject\MyDiary\MyDiary.Models\obj\Debug\MyDiary.Models.dll
+F:\TP_WorkingProject\MyDiary\MyDiary.Models\obj\Debug\MyDiary.Models.pdb
